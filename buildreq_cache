@@ -1,3 +1,6 @@
-1.07
+1.09
+perl(File::Find::Rule)
+perl(Test::Pod)
+perl(Test::Pod::Coverage)
 perl(Xxx::Yyy)
 perl(Xxx::Zzz)
