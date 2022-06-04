@@ -4,7 +4,7 @@
 #
 Name     : perl-Test-Inter
 Version  : 1.09
-Release  : 20
+Release  : 21
 URL      : https://cpan.metacpan.org/authors/id/S/SB/SBECK/Test-Inter-1.09.tar.gz
 Source0  : https://cpan.metacpan.org/authors/id/S/SB/SBECK/Test-Inter-1.09.tar.gz
 Summary  : 'framework for more readable interactive test scripts'
@@ -96,5 +96,4 @@ find %{buildroot} -type f -name '*.bs' -empty -exec rm -f {} ';'
 
 %files perl
 %defattr(-,root,root,-)
-/usr/lib/perl5/vendor_perl/5.34.0/Test/Inter.pm
-/usr/lib/perl5/vendor_perl/5.34.0/Test/Inter.pod
+/usr/lib/perl5/*
