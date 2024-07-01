@@ -7,7 +7,7 @@
 #
 Name     : perl-Test-Inter
 Version  : 1.11
-Release  : 27
+Release  : 28
 URL      : https://cpan.metacpan.org/authors/id/S/SB/SBECK/Test-Inter-1.11.tar.gz
 Source0  : https://cpan.metacpan.org/authors/id/S/SB/SBECK/Test-Inter-1.11.tar.gz
 Summary  : 'framework for more readable interactive test scripts'
